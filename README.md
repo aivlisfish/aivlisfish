@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aivlisfish
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning Python, UE5 Blueprint and a few others
-- 💞️ I’m looking to collaborate on a UE5 game about space exploration called Silver Lining
+- 🌱 I know GML well and Python sort of well
+- 💞️ I’m working on a few projects for classes but mainly my Terraria clone, T'rreriuh
 - 📫 How to reach me: email: aivlisfish@gmail.com, discord: aivlisfish
 - 😄 Pronouns: She/Her/They?them
 - ⚡ Fun fact: I like women

@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @aivlisfish
 - 👀 I’m interested in coding and gaming
-- 🌱 I know GML well and Python sort of well
+- 🌱 I know Python and UE5 Blueprint sorta well
 - 💞️ I’m working on a few projects for classes but mainly my Terraria clone, T'rreriuh
 - 📫 How to reach me: email: aivlisfish@gmail.com, discord: aivlisfish
-- 😄 Pronouns: She/Her/They?them
+- 😄 Pronouns: She/Her/They/them
 - ⚡ Fun fact: I like women
 
 <!---

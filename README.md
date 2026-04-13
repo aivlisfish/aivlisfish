@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @aivlisfish
-- 👀 I’m interested in coding and gaming
-- 🌱 I know Python and UE5 Blueprint sorta well
-- 💞️ I’m working on a few projects for classes but mainly my Terraria clone, T'rreriuh
-- 📫 How to reach me: email: aivlisfish@gmail.com, discord: aivlisfish
-- 😄 Pronouns: She/Her/They/them
-- ⚡ Fun fact: I like women
+I have many projects open and unworked on, with the hope I'll find the motivation to work on them again.
 
-<!---
-aivlisfish/aivlisfish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Current Projects:
+
+Silver Lining: Started work around Q4 2024 and have hardly worked on it. Basically a universe simulation survival game. Way too big a scope for one person, but hey a girl can dream.
+aivlisfish.dev: My website with a range of random services
+Webchat: A chat service that's way overdue for an update
+aivlisfish.dev Hosting: No decided name other than "the hosting service". You can rent VPSs and do whatever, just contact me.
+
+Contact:
+Email: aivlisfish@aivlisfish.dev
+Discord: aivlisfish
+just type "aivlisfish" on a platform and if it shows up I'm there
